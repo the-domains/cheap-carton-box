@@ -2,13 +2,20 @@
     <channel>
         <title><![CDATA[Cheap Carton Box]]></title>
         <description><![CDATA[Cheap Carton Box]]></description>
-        <link>http://github.com/dylang/node-rss</link>
+        <link>https://thegrid.ai/cheap-carton-box/</link>
         <generator>The Grid</generator>
-        <lastBuildDate>Tue, 12 Jul 2016 12:17:13 GMT</lastBuildDate>
-        <atom:link href="undefinedrss.xml" rel="self" type="application/rss+xml"/>
+        <lastBuildDate>Tue, 12 Jul 2016 13:51:03 GMT</lastBuildDate>
+        <atom:link href="https://thegrid.ai/cheap-carton-box/rss.xml" rel="self" type="application/rss+xml"/>
+        <item>
+            <title><![CDATA[How can I buy your Cheap Carton Boxes?]]></title>
+            <description><![CDATA[<article><h1>How can I buy your Cheap Carton Boxes?</h1><p>You can call us at ______ or send us an email on your order. We will check for stock availability and let you know.</p><img src="https://imgflo.herokuapp.com/graph/vahj1ThiexotieMo/dc5c5de8b8c2999890ac67cde05dd8b9/croprotate.jpg?cropheight=3242&cropwidth=4862&degrees=0&input=https%3A%2F%2Fthe-grid-user-content.s3-us-west-2.amazonaws.com%2Fc84d1f68-72b4-42c8-b770-2cd55fc13f3b.jpg&x=0&y=0"></article>]]></description>
+            <link>https://the-grid-user-content.s3-us-west-2.amazonaws.com/c84d1f68-72b4-42c8-b770-2cd55fc13f3b.jpg</link>
+            <guid isPermaLink="false">9ec9e2b6-828c-48c4-bfdc-e0725d3b07e6</guid>
+            <pubDate>Tue, 12 Jul 2016 13:51:02 GMT</pubDate>
+        </item>
         <item>
             <title><![CDATA[How Cheap is your Cartons]]></title>
-            <description><![CDATA[<article><h1>How Cheap is your Cartons</h1><p>We endeavour to sell the cheapest available cartons to you. We mass produce them in large quantities and keep stock for you.</p><img src="https://the-grid-user-content.s3-us-west-2.amazonaws.com/28f09094-3af3-4659-a9f7-52d7e30e3415.jpg"></article>]]></description>
+            <description><![CDATA[<article><h1>How Cheap is your Cartons</h1><p>We endeavour to sell the cheapest available cartons to you. We mass produce them in large quantities and keep stock for you.</p><img src="https://imgflo.herokuapp.com/graph/vahj1ThiexotieMo/198079faaa861e70d6bc58c548952f3b/croprotate.jpg?cropheight=3296&cropwidth=4942&degrees=0&input=https%3A%2F%2Fthe-grid-user-content.s3-us-west-2.amazonaws.com%2F28f09094-3af3-4659-a9f7-52d7e30e3415.jpg&x=0&y=0"></article>]]></description>
             <link>https://the-grid-user-content.s3-us-west-2.amazonaws.com/28f09094-3af3-4659-a9f7-52d7e30e3415.jpg</link>
             <guid isPermaLink="false">9ea42950-f40a-4212-a874-c5a8b484adfc</guid>
             <pubDate>Tue, 12 Jul 2016 12:17:03 GMT</pubDate>
